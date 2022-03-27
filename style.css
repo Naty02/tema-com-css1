@@ -11,15 +11,17 @@ body {
 main#container {
     background-image: linear-gradiente(to bottom, rgb(133, 104, 160) 0%, rgb(93, 61, 110) 100%);
     border: 30px solid rgb(93, 61, 110);
+    color: rgb(0, 247, 255);
 }
 
 h1.titulo {
-    color: rgb(64, 58, 129);
+    color: rgb(80, 12, 80);
     font-family: 'Henny Penny', cursive;
 }
 
 p.frase {
     font-weight: bold;
+    color: white;
 }
 
 p.autor {
